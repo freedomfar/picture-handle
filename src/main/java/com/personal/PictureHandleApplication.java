@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PictureHandleApplication {
 
 	public static void main(String[] args) {
-		//hahhahahah
+		//测试
 		SpringApplication.run(PictureHandleApplication.class, args);
 	}
 }
